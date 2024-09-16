@@ -1,0 +1,7 @@
+C:\Kodlar\C#\Moduygulama\Moduygulama\bin\Debug\Moduygulama.exe.config
+C:\Kodlar\C#\Moduygulama\Moduygulama\bin\Debug\Moduygulama.exe
+C:\Kodlar\C#\Moduygulama\Moduygulama\bin\Debug\Moduygulama.pdb
+C:\Kodlar\C#\Moduygulama\Moduygulama\obj\Debug\Moduygulama.csproj.AssemblyReference.cache
+C:\Kodlar\C#\Moduygulama\Moduygulama\obj\Debug\Moduygulama.csproj.CoreCompileInputs.cache
+C:\Kodlar\C#\Moduygulama\Moduygulama\obj\Debug\Moduygulama.exe
+C:\Kodlar\C#\Moduygulama\Moduygulama\obj\Debug\Moduygulama.pdb
