@@ -21,6 +21,8 @@ namespace Moduygulama
             double s2 = Convert.ToDouble(bolen);
             double kalan = (double)(s1 % s2);
             Console.WriteLine("Bölüm: "+(s1/s2));
+            double b1 = Math.Round((s1/s2),0);
+            Console.WriteLine("Yuvarlanmış bölüm:" + b1);
             Console.WriteLine("Bu bölme işleminin kalanı: " + kalan);
             Console.WriteLine("Klavyeden herhangi bir tuşa basıp programı kapatabilirsiniz.");
             Console.ReadKey();
