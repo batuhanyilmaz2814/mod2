@@ -19,8 +19,9 @@ namespace Moduygulama
             Console.Write("Bölecek sayıyı giriniz:");
             string bolen = Console.ReadLine();
             double s2 = Convert.ToDouble(bolen);
-            int kalan = (int)(s1 % s2);
-            Console.WriteLine("Bu bölme işleminin tam sayı kalanı: " + kalan);
+            double kalan = (double)(s1 % s2);
+            Console.WriteLine("Bölüm: "+(s1/s2));
+            Console.WriteLine("Bu bölme işleminin kalanı: " + kalan);
             Console.WriteLine("Klavyeden herhangi bir tuşa basıp programı kapatabilirsiniz.");
             Console.ReadKey();
 
